@@ -6,6 +6,8 @@ import java.util.stream.IntStream;
 
 /**
  * @author zhangbaowei
+ *
+ * from: https://www.baeldung.com/mockito-mock-static-methods
  */
 public class StaticUtils {
 
